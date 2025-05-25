@@ -1,8 +1,8 @@
 # Exercícios
 
-1. Crie uma expressão regular para validar um nome completo, permitindo apenas letras (maiúsculas ou minúsculas) e espaços entre os nomes. O nome deve ter pelo menos 2 palavras (nome e sobrenome) e não pode conter caracteres especiais ou números.
-Exemplo de entrada válida: João Bueno
-Exemplo de entrada inválida: João@ Bueno
+1. Crie uma expressão regular para validar um nome completo, permitindo apenas letras (maiúsculas ou minúsculas) e espaços entre os nomes. O nome deve ter pelo menos 2 palavras (nome e sobrenome) e não pode conter caracteres especiais ou números.</br>
+Exemplo de entrada válida: João Bueno</br>
+Exemplo de entrada inválida: João@ Bueno</br>
 
 2. Crie uma expressão regular que define o padrão os documentos de RG 99.999.999-9 e CPF 99.999.999-99.
 
